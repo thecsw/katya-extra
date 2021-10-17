@@ -1,3 +1,14 @@
+ca
+client
+sanfran
+
+certs
+spider-*.json
+katya
+.DS_Store
+.saves
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
